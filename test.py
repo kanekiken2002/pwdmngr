@@ -1,3 +1,4 @@
-from connn import *
+import connn
 
-add_det("snehalm2002", "avadakedavra", "9anime.is")
+df = connn.dfunc()
+df.add_det("snehalm2002", "avadakedavra", "9anime.is")
